@@ -1,0 +1,22 @@
+p	{
+    color:	black;
+    
+    font-family: serif;
+    text-align: justify;
+    line-height: 20px;	/*	tamanho	da	altura	de	cada	linha	*/
+    letter-spacing: 3px;	/*	tamanho	do	espaço	entre	cada	letra	*/
+    word-spacing: 5px;	/*	tamanho	do	espaço	entre	cada	palavra	*/
+    text-indent: 40px;	/*	tamanho	da	margem	da	primeira	linha	do	texto	*/
+    }
+    body	{
+        background-image:	url(body-background.png);
+        border-color: lightgray;
+        border-style: solid;
+        border-width: 6px;
+        }
+    h2      { 
+        text-align: center;
+        }
+    h1      { 
+        text-align: center;
+            }
